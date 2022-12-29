@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DarkStoreApp Test</string>
+    <string name="calculator">Currency Calculator</string>
+    <string name="history">History</string>
+
+    <string name="original">Original</string>
+    <string name="target">Target</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="choose_currency_hint">choose currency</string>
+    <string name="result_format">%1$s %2$s = %3$s %4$s</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">Something went wrong. Please try again later</string>
+    <string name="no_data">There is no history items yet…</string>
+</resources>
